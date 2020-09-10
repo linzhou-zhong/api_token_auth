@@ -1,4 +1,4 @@
-# Authentication function
+# Authentication Function
 
 ## Refinement requirements
 
